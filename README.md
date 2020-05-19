@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/nataliamachado64/ProjectAzureNatalia/_apis/build/status/nattymachado.calculator?branchName=master)](https://dev.azure.com/nataliamachado64/ProjectAzureNatalia/_build/latest?definitionId=5&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
